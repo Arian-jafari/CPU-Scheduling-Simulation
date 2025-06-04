@@ -3,8 +3,11 @@ A C-based simulation of various CPU scheduling algorithms, designed to model and
 
 ## File Structure
 scheduler.c: Contains the main simulation logic.
+
 scheduler.h: Header file with function declarations and data structures.
+
 scheduler_test.c: Test cases for validating scheduling algorithms.
+
 Makefile: Build configuration for compiling the project.
 
 ## Features
